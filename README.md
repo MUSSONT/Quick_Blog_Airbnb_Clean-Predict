@@ -3,7 +3,7 @@ EDA for London Air bnb data nov18
 
 # Packages used 
 
-import pandas as pd
+```import pandas as pd
 import requests
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
@@ -15,6 +15,7 @@ import re
 import numpy as np
 import matplotlib.pyplot as plt
 from io import StringIO
+```
 
 # Questions asked?
 - Can we predict price? and what are the important features
