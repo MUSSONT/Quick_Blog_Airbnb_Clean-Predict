@@ -16,6 +16,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from io import StringIO
 ```
+# Data source
+http://data.insideairbnb.com/united-kingdom/england/london/2018-11-04/data/listings.csv.gz
 
 # Questions asked?
 - Can we predict price? and what are the important features
