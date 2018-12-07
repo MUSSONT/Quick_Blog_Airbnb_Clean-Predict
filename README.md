@@ -20,7 +20,9 @@ from io import StringIO
 http://data.insideairbnb.com/united-kingdom/england/london/2018-11-04/data/listings.csv.gz
 
 # Questions asked?
-- Can we predict price? and what are the important features
+- Can we predict price? and what are the important features?
 - Can we predict review scores? and what are the important features?
 - What are the common words used in describing properties?
+
+
 
