@@ -4,6 +4,9 @@ EDA for London Air bnb data nov18
 # motivation for the roject
 To gain a better insight into Airbnb . Using CrispDM analysis principles to answer a few high level questions (*listed below)
 
+# outputs
+# -------> [HERE](https://medium.com/me/stats/post/979d0e0adb79) <------------
+
 # Packages used 
 
 ```###import all here 
