@@ -31,7 +31,9 @@ http://data.insideairbnb.com/united-kingdom/england/london/2018-11-04/data/listi
 - 3)What are the common words used in describing properties?
 
 # results
-- 1)
-- 2)
-- 3) 
+-  Able to predict price within $8 per person median error - and get a useful list of feature importances below 
+![](feat_imp_price.png)
+-   Able to predict price within 1.4%  median error - and get a useful list of feature importances below 
+![](feat_imp_rev.png)
+-  ![](wordcloud.png)
 
